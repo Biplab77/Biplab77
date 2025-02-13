@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Langchain**
 
-- 👨‍💻 All of my projects are available at [biplabrathour.com.np](biplabrathour.com.np)
+- 👨‍💻 All of my projects are available at [[biplabrathour.com.np](https://github.com/Biplab77?tab=repositories)]([Biplab77?tab=repositories](https://github.com/Biplab77?tab=repositories))
 
 - 💬 Ask me about **Python**
 
@@ -23,9 +23,9 @@
 <p align="left">
 <a href="https://twitter.com/helloworld3463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="helloworld3463" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/biplabrathour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biplabrathour" height="30" width="40" /></a>
-<a href="https://fb.com/biplab rathour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biplab rathour" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100008699442196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biplab rathour" height="30" width="40" /></a>
 <a href="https://instagram.com/biplab_rathour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biplab_rathour" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/biplab rathour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="biplab rathour" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@biplabrathour3723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="biplab rathour" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
