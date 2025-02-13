@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Langchain**
 
-- 👨‍💻 All of my projects are available at (https://github.com/Biplab77?tab=repositories)]([Biplab77?tab=repositories](https://github.com/Biplab77?tab=repositories))
+- 👨‍💻 All of my projects are available at (https://github.com/Biplab77?tab=repositories)]
 
 - 💬 Ask me about **Python**
 
